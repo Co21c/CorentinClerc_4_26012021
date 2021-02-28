@@ -648,7 +648,8 @@ h6,
 p,
 label,
 .btn,
-a {
+a,
+address {
     font-family: "helvetica";
     font-weight: 400;
     color: #222222!important;
